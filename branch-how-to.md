@@ -2,3 +2,4 @@
 Переключение в новую ветку git checkout ...
 подготовить новый файл для комита: git add branch-how-to.md
 сделать комит: git commit -m “branch instructions”
+вот
